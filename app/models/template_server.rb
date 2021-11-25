@@ -9,7 +9,7 @@ require 'logger'      # Logs debug statements
 require 'git'
 require 'pry'
 
-set :port, 3000
+set :port, 2000
 set :bind, '0.0.0.0'
 
 # This is template code to create a GitHub App server.
